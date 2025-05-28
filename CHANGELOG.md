@@ -1,5 +1,12 @@
 # CHANGELOG 
 All notable changes to this project will be documented in this file.
+## [v0.3.1](https://github.com/carlitooos1223/prueba/tree/v0.3.1) - 2025-05-28
+
+### Fix
+* fix: yeaa d3b4e1d
+
+### Docs
+* docs: yeaa d742a36
 ## [v0.3.0](https://github.com/carlitooos1223/prueba/tree/v0.3.0) - 2025-05-28
 
 ### Feat
