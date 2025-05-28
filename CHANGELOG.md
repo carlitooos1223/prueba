@@ -1,5 +1,9 @@
 # CHANGELOG 
 All notable changes to this project will be documented in this file.
+## [v0.2.2](https://github.com/carlitooos1223/prueba/tree/v0.2.2) - 2025-05-28
+
+### Fix
+* fix: pruebaaaaas 98cc79f
 ## [v0.2.1](https://github.com/carlitooos1223/prueba/tree/v0.2.1) - 2025-05-28
 
 ### Fix
